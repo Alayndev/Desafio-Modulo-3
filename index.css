@@ -164,6 +164,7 @@ body {
     height: 600px;
 
     display: grid;
+    align-items: center;
     gap: 0 90px;
 
     padding: 130px 0 170px 0;
